@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <link href="images/logo.png" rel="icon" type="image/png">
-    <title>LaptopCare.mu</title>
+    <link href="images/BenerinAja.jpg" rel="icon" type="image/jpg">
+    <title>BenerinAja.my.id</title>
     
     <!-- CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -94,5 +94,14 @@
 <script src="js/bootstrap.min.js"></script>
 <script src="js/bootstrap.bundle.min.js"></script>
 
-</body>
-</html>
+<!-- to your js part -->
+<script src="script.js"></script>
+<script type="text/javascript">
+  function googleTranslateElementInit() {
+      new google.translate.TranslateElement(
+          {pageLanguage: 'id'},
+          'google_translate_element'
+      );
+  } 
+</script>
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
